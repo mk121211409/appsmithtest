@@ -1,7 +1,7 @@
 export default {
 	customWidgetDataMikMethod (){
 	
-		const test = SELECT_TOPWORKORDER.data[0].workorderid;
+		const test =  SELECT_TOPWORKORDER.data[0].WORKORDERID;
 		
 		return { 
 						"sisu1": [test],
