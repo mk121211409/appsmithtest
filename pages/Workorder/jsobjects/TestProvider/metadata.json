@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "69284ab7f955975291c709a7_6b389356-b1c0-4ff0-b1cd-c98927ba6bc5",
+  "id": "Workorder_TestProvider",
+  "unpublishedCollection": {
+    "name": "TestProvider",
+    "pageId": "Workorder",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

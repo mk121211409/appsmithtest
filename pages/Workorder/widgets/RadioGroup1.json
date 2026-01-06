@@ -1,0 +1,57 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "alignment": "left",
+  "animateLoading": true,
+  "bottomRow": 7,
+  "boxShadow": "none",
+  "defaultOptionValue": "Y",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicPropertyPathList": [],
+  "flexVerticalAlignment": "start",
+  "isDisabled": false,
+  "isInline": true,
+  "isLoading": false,
+  "isRequired": false,
+  "isVisible": true,
+  "key": "jsy3m016us",
+  "label": "Label",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 38,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 38,
+  "mobileRightColumn": 58,
+  "mobileTopRow": 1,
+  "needsErrorInfo": false,
+  "options": [
+    {
+      "label": "Yes",
+      "value": "Y"
+    },
+    {
+      "label": "No",
+      "value": "N"
+    }
+  ],
+  "originalBottomRow": 7,
+  "originalTopRow": 1,
+  "parentColumnSpace": 20.25,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 58,
+  "topRow": 1,
+  "type": "RADIO_GROUP_WIDGET",
+  "version": 1,
+  "widgetId": "p0r2ughrld",
+  "widgetName": "RadioGroup1"
+}
