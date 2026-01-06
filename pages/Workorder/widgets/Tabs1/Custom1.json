@@ -3,7 +3,7 @@
   "borderColor": "#E0DEDE",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "1",
-  "bottomRow": 30,
+  "bottomRow": 12,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "defaultModel": "{{TestProvider.customWidgetDataMikMethod()}}",
   "dynamicBindingPathList": [
@@ -47,7 +47,7 @@
   "parentId": "h19ibpey73",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 60,
+  "rightColumn": 57,
   "srcDoc": {
     "css": "body, #root {\n  height: 100%;\n  width: 100%;\n  margin: 0;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-family: system-ui, sans-serif;\n  background: #f8fafc;\n}\n\n.hello-container {\n  font-size: 2rem;\n  color: #333;\n  background: #fff;\n  padding: 32px 48px;\n  border-radius: 16px;\n  box-shadow: 0 4px 24px 0 rgba(0, 0, 0, 0.0666666667);\n  font-weight: 600;\n  letter-spacing: 1px;\n}",
     "html": "<div id=\"root\"></div>",
