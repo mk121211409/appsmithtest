@@ -1,10 +1,8 @@
 export default {
 	customWidgetDataMikMethod (){
-	
-		const test =  SELECT_TOPWORKORDER.data[0].WORKORDERID;
 		
 		return { 
-						"sisu1": [test],
+						"sisu1": [SELECT_TOPWORKORDER.data[0].WORKORDERID],
 			"sisu2": ["üksteist", "kaksteist", "neliteist"]  
 		}; 
 		
