@@ -5,7 +5,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT TOP(1000)\n  *\nFROM\n  dbo.ESTWORKORDERHEADER\nORDER BY DUEDATE DESC",
+      "body": "SELECT TOP(50)\n  *\nFROM\n  dbo.ESTWORKORDERHEADER",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
