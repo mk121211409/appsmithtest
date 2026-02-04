@@ -9,6 +9,6 @@ export default {
 				.catch(() => {
 					showAlert("Refresh failed", "error");
 				});
-		}, 10000); // 10 seconds
+		}, 20000); // 10 seconds
 	}
 }
